@@ -1,4 +1,4 @@
-# HistopathAIzer
+# Extracting Structured Information from  Unstructured Histopathology Reports with GPT-4
 \
 Install
 =============
