@@ -1,0 +1,11 @@
+openai
+PyPDF2
+pytesseract
+ocrmypdf
+pdf2image
+tabulate
+fpdf
+pandas
+reportlab
+jinja2
+tiktoken
